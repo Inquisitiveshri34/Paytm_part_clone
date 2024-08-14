@@ -1,0 +1,32 @@
+*{
+    font-family: 'Inter',sans-serif;
+    margin-inline: 0;
+}
+
+section > div{
+    display: flex;
+    justify-content:space-between;
+    padding: 70px 10px;
+}
+.lightBlue{
+    background-color: rgb(0,186,242);
+    color: white;
+    padding: 10px;
+}
+.darkBlue{
+    background-color: rgb(15,74,137);
+    color: white;
+    padding: 10px;
+}
+h1{
+    font-size: 2rem;
+}
+
+img{
+    width: 40%;
+}
+
+.opts{
+    width: 15%;
+    padding: 12px;
+}
